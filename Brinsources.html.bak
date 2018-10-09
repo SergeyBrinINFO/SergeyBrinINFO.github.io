@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Sergey Brin Sources</title>
+    <meta charset="utf-8"/>
+  </head>
+<body background="Clouds.jpg">
+    <div id="header">
+	<style type="text/css">
+.custom {
+	font-family: Verdana;
+	color: white;
+	font-size:15px;}
+	div {
+    background-color: pink;
+    width: 1575px;}
+</style>
+<div>
+<p> </p>
+      <h1 class="custom">My sources.</h1>
+<p> </p>
+    </div>
+	<blockquote cite="http://www.sergeyBrinInfo.net">
+<p class="custom">The sources I used for this website.</p>
+<p class="custom">https://www.forbes.com/profile/sergey-brin/#7efb84b4b432</p>
+<p class="custom">https://www.brainyquote.com/authors/sergey_brin</p>
+<p class="custom">https://en.wikipedia.org/wiki/Sergey_Brin</p>
+<p class="custom">Click the link below to return to the homepage!</p>
+    <li class="custom"><a href="Brinmain.html">Home</a></li>
+	<audio src="Depeche.mp3" loop autoplay preload></audio> 
+  </body>
+</html>

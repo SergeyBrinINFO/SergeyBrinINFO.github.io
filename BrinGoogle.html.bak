@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Google's Story</title>
+    <meta charset="utf-8"/>
+  </head>
+<body background="Clouds.jpg">
+    <div id="header">
+	<style type="text/css">
+.custom {
+	font-family: Verdana;
+	color: white;
+	font-size:15px;}
+	div {
+    background-color: pink;
+    width: 1575px;}
+</style>
+<div>
+<p> </p>
+      <h1 class="custom">The story of Google.</h1>
+<p> </p>
+ </div>
+	<blockquote cite="http://www.sergeyBrinInfo.net">
+<p class="custom">You may have heard of or used the search engine Google. Google is a tech giant within many industries, operated by a company called “Alphabet” it has many branches. Including a documents branch, a presentation branch, a file sharing branch and even a video platform. Google has come so far since its inception and became such a big part of the tech industry that it doesn’t only operate with computer search engines and such, it also works with self automated cars, smart glasses, cellular phones and many more things. Below is the story of two bright young men. Sergey Brin and Larry Page, while both will be talked about, Brin will be the main focus. Sergey Brin has lived a very interesting life and done many wonderful things in the field of computer sciences, as Page likely has.</p>
+<p class="custom">While attending Stanford University, two men met. Sergey Brin and Larry Page. The two had initially felt they had many differences from each other, but they’d quickly became friends. Working on papers and thesis together, as well as working on projects. One day, Brin and Page had used their bright minds together to combine their ideas and begin an all new venture. They’d begun working on a search engine, this had many problems and workarounds, and generally had been quite the challenge for the two. But armed with various degrees, Page and Brin’s dormitory rooms, various pieces of equipments and their brains, they quickly fixed these problems. And soon, Google had been born. Rumor says that the name “Google” was actually a misspelling of the word “Googol”.</p>
+<p class="custom">A photo of Google's current logo.
+<p><img src="580b57fcd9996e24bc43c51f.png" width="1000" height="338"</>
+<p class="custom">Click the link below to return to the homepage!</p>
+    <li class="custom"><a href="Brinmain.html">Home</a></li>
+	<audio src="Depeche.mp3" loop autoplay preload></audio> 
+  </body>
+</html>

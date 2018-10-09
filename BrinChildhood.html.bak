@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Sergey Brin Childhood</title>
+    <meta charset="utf-8"/>
+  </head>
+ <body background="Clouds.jpg">
+    <div id="header">
+	<style type="text/css">
+.custom {
+	font-family: Verdana;
+	color: white;
+	font-size:15px;}
+	div {
+    background-color: pink;
+    width: 1575px;}
+</style>
+<div>
+<p> </p>
+      <h1 class="custom">Sergey Brin's childhood and teenage years.</h1>
+	  <p> </p>
+</div>
+	<blockquote cite="http://www.sergeyBrinInfo.net">
+  <p class="custom">Brin was born on August 21, 1973 to a Russian Jewish family in Moscow. His father was a mathematician, his father returned home from a mathematics conference in Warsaw, Poland once. His father had told his family that whilst at the conference he was able to mingle freely with his colleagues, and that these people were not the monsters they’d known in Russia. So his family began to diligently work toward exit visas, his father teaching himself computer programming throughout this. Soon enough they were granted exit visas. So at the age of six, Sergey became an immigrant. His family forced from his country due to prejudices against the Jewish peoples they’d belonged to.</p>
+  <p class="custom">In 1990, Sergey was nearing his 17th birthday. His father had decided to take him and other students on a trip to the Soviet Union, his roommate being a future colleague, John Stamper. The trip brought back his long time childhood fear of authority. On the second day of the trip they’d gone to look at a Sanatorium on the countryside. Brin took his father off from the group and thanked him for freeing them from the Soviet Union.</p>
+  <p class="custom">A childhood photo of Sergey Brin.</p>
+  <p><img src="Sergey-Brin-Biography.jpg" width="298" height="373"</>
+  <p class="custom">Click the link below to return to the homepage!</p>
+    <li class="custom"><a href="Brinmain.html">Home</a></li> 
+	<audio src="Depeche.mp3" loop autoplay preload></audio> 
+  </body>
+</html>
